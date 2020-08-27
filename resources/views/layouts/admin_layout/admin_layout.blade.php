@@ -38,7 +38,7 @@
   <!-- Main Sidebar Container -->
   @include('layouts.admin_layout.admin_sidebar')
   <!-- Content Wrapper. Contains page content -->
-@yield('content')
+  @yield('content')
   <!-- /.content-wrapper -->
   @include('layouts.admin_layout.admin_footer')
 
